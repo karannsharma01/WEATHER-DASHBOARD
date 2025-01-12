@@ -32,6 +32,8 @@ Humidity
 Wind speed
 4. Error Handling: If the city name is invalid, the user receives an error message prompting them to try again.
 
+## CODE PATH: src/App.js
 # OUTPUT:
+
 
 ![WeatherDashboard](https://github.com/user-attachments/assets/a7162222-ca47-459e-a4c7-9bb42983f6a4)
